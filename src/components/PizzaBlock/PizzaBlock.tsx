@@ -42,6 +42,7 @@ const PizzaBlock: React.FC<PizzaBlockProps> = ({
     dispatch(addItem(item));
   };
 
+
   return (
     <div className="pizza-block-wrapper">
       <div className="pizza-block">
@@ -95,6 +96,7 @@ const PizzaBlock: React.FC<PizzaBlockProps> = ({
             <span>Добавить</span>
             {addedCount > 0 && <i>{addedCount}</i>}
           </button>
+         
         </div>
       </div>
     </div>
