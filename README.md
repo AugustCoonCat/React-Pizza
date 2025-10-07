@@ -9,7 +9,7 @@ SPA для онлайн-заказа пиццы
 - Адаптивная верстка (desktop → mobile)
 
 ##  Стек технологий
-React, TypeScript, Redux Toolkit, SCSS, React Router
+React, React Router, Redux Toolkit , TypeScript, SCSS
 
 ## ⚙️ Установка и запуск
 ```bash
